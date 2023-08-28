@@ -1,0 +1,24 @@
+{
+  "name": "nekobin",
+  "version": "1.0.0",
+  "description": "a copy and past website which lets anyone to just past and share clipboard to anyone with just link and link will persist data for some time even if the session from sender is closed ",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apollo3213/share-clipboard.git"
+  },
+  "keywords": [
+    "clipboard-share",
+    "copy-paste",
+    "share-paste"
+  ],
+  "author": "RajasB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apollo3213/share-clipboard/issues"
+  },
+  "homepage": "https://github.com/Apollo3213/share-clipboard#readme"
+}
